@@ -1,0 +1,659 @@
+{
+    "images": [
+        "data/"
+    ],
+    "threshold": 100.0,
+    "fix_size": true,
+    "results": [
+        {
+            "input_path": "data\\481\\0\\913_0_brech-02-03-2020-3-10_8879317a-5c3b-11ea-bb7d-d0abd55a1733.png",
+            "score": 1798.307407083095,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_10_brech-02-03-2020-3-10_8ba2acc2-5c3b-11ea-befd-d0abd55a1733.png",
+            "score": 2116.6654811333437,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_11_brech-02-03-2020-3-10_8bf3f2dc-5c3b-11ea-bac1-d0abd55a1733.png",
+            "score": 2094.4927207327537,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_12_brech-02-03-2020-3-10_8c464490-5c3b-11ea-bd0f-d0abd55a1733.png",
+            "score": 2107.9233145346884,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_13_brech-02-03-2020-3-10_8c9777d4-5c3b-11ea-96ed-d0abd55a1733.png",
+            "score": 2117.444438690034,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_14_brech-02-03-2020-3-10_8ce9384a-5c3b-11ea-9ff3-d0abd55a1733.png",
+            "score": 2131.461200851734,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15135_brech-02-03-2020-3-10_4c95960c-5c4e-11ea-864d-d0abd55a1733.png",
+            "score": 1851.6484233209228,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15136_brech-02-03-2020-3-10_4ce5e2dc-5c4e-11ea-bd73-d0abd55a1733.png",
+            "score": 1824.4392007621477,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15137_brech-02-03-2020-3-10_4d3922a4-5c4e-11ea-b03d-d0abd55a1733.png",
+            "score": 1879.2994728470503,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15138_brech-02-03-2020-3-10_4d8a2af4-5c4e-11ea-af7f-d0abd55a1733.png",
+            "score": 1820.384352952402,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15139_brech-02-03-2020-3-10_4ddbab5c-5c4e-11ea-8c56-d0abd55a1733.png",
+            "score": 1853.6383866090086,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15140_brech-02-03-2020-3-10_4e2df5e8-5c4e-11ea-91c4-d0abd55a1733.png",
+            "score": 1812.1034328566595,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15141_brech-02-03-2020-3-10_4e7cc3d2-5c4e-11ea-9b6a-d0abd55a1733.png",
+            "score": 1851.1372511379109,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15142_brech-02-03-2020-3-10_4ece1974-5c4e-11ea-84a5-d0abd55a1733.png",
+            "score": 1872.9626618811208,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15143_brech-02-03-2020-3-10_4f20c7fa-5c4e-11ea-b3fe-d0abd55a1733.png",
+            "score": 1864.7679716332511,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15144_brech-02-03-2020-3-10_4f70ff4c-5c4e-11ea-b514-d0abd55a1733.png",
+            "score": 1888.6449857817613,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15145_brech-02-03-2020-3-10_4fc336d4-5c4e-11ea-93e6-d0abd55a1733.png",
+            "score": 1905.4623356412487,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_1_brech-02-03-2020-3-10_88c82050-5c3b-11ea-957c-d0abd55a1733.png",
+            "score": 2152.5266725356696,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_2_brech-02-03-2020-3-10_891a91f4-5c3b-11ea-a6f9-d0abd55a1733.png",
+            "score": 2141.694738827357,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_3_brech-02-03-2020-3-10_896de35c-5c3b-11ea-a6fa-d0abd55a1733.png",
+            "score": 2019.98334699905,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_4_brech-02-03-2020-3-10_89bc438c-5c3b-11ea-8e04-d0abd55a1733.png",
+            "score": 2151.2669840820054,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_5_brech-02-03-2020-3-10_8a0e26f6-5c3b-11ea-9f8d-d0abd55a1733.png",
+            "score": 2149.816250014636,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_6_brech-02-03-2020-3-10_8a5df862-5c3b-11ea-8d84-d0abd55a1733.png",
+            "score": 2137.845396773001,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_7_brech-02-03-2020-3-10_8aaf7324-5c3b-11ea-bd4c-d0abd55a1733.png",
+            "score": 2130.2546537363096,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_8_brech-02-03-2020-3-10_8b0213b0-5c3b-11ea-a787-d0abd55a1733.png",
+            "score": 2131.7272370884634,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_9_brech-02-03-2020-3-10_8b525d94-5c3b-11ea-9a94-d0abd55a1733.png",
+            "score": 2093.650986151549,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_0_hafiz-03-02-2020-3-12_9a4358dc-463b-11ea-82a2-50eb7165e1b2.png",
+            "score": 4179.283074587237,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_12_hafiz-03-02-2020-3-12_9fc6009c-463b-11ea-9871-50eb7165e1b2.png",
+            "score": 2884.6645200349903,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_13_hafiz-03-02-2020-3-12_a04a7080-463b-11ea-97e0-50eb7165e1b2.png",
+            "score": 3361.9618861585204,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_1_hafiz-03-02-2020-3-12_9abce3b4-463b-11ea-b68f-50eb7165e1b2.png",
+            "score": 4071.8617109045053,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_2_hafiz-03-02-2020-3-12_9b467176-463b-11ea-9d8a-50eb7165e1b2.png",
+            "score": 3816.5537005039423,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_7_hafiz-03-02-2020-3-12_9d811036-463b-11ea-99ba-50eb7165e1b2.png",
+            "score": 115.7268200943161,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1076_hafiz-03-02-2020-3-12_067303fa-463e-11ea-809d-50eb7165e1b2.png",
+            "score": 2285.5184003331215,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1077_hafiz-03-02-2020-3-12_06e468e6-463e-11ea-9a19-50eb7165e1b2.png",
+            "score": 2290.5975944048096,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1078_hafiz-03-02-2020-3-12_076f69c0-463e-11ea-b927-50eb7165e1b2.png",
+            "score": 2428.5451322915874,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1079_hafiz-03-02-2020-3-12_0820f866-463e-11ea-b4aa-50eb7165e1b2.png",
+            "score": 2469.503560603827,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1080_hafiz-03-02-2020-3-12_08b7f5ec-463e-11ea-b58c-50eb7165e1b2.png",
+            "score": 2476.6859769414023,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1081_hafiz-03-02-2020-3-12_093b679e-463e-11ea-ac73-50eb7165e1b2.png",
+            "score": 2459.323496343683,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1082_hafiz-03-02-2020-3-12_09c19af4-463e-11ea-9eec-50eb7165e1b2.png",
+            "score": 2429.5468853527414,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1083_hafiz-03-02-2020-3-12_0a742308-463e-11ea-8d3a-50eb7165e1b2.png",
+            "score": 2503.37195863028,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1084_hafiz-03-02-2020-3-12_0b1f5b0c-463e-11ea-bb9b-50eb7165e1b2.png",
+            "score": 2460.4686598746916,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1085_hafiz-03-02-2020-3-12_0bae4cf6-463e-11ea-9fb3-50eb7165e1b2.png",
+            "score": 2493.749059526707,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1086_hafiz-03-02-2020-3-12_0c34d868-463e-11ea-9126-50eb7165e1b2.png",
+            "score": 2520.1503247423666,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1087_hafiz-03-02-2020-3-12_0ce8774a-463e-11ea-9f61-50eb7165e1b2.png",
+            "score": 2516.578635083268,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1088_hafiz-03-02-2020-3-12_0d8e2ed2-463e-11ea-8973-50eb7165e1b2.png",
+            "score": 2506.871963948372,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1089_hafiz-03-02-2020-3-12_0e117f0c-463e-11ea-a2f4-50eb7165e1b2.png",
+            "score": 2510.134416732122,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1090_hafiz-03-02-2020-3-12_0e98ac0a-463e-11ea-a087-50eb7165e1b2.png",
+            "score": 2514.7577412153023,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1091_hafiz-03-02-2020-3-12_0f474ab6-463e-11ea-8b25-50eb7165e1b2.png",
+            "score": 2517.50667961544,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1092_hafiz-03-02-2020-3-12_0fe4c4e6-463e-11ea-ad36-50eb7165e1b2.png",
+            "score": 2509.8331096745046,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1093_hafiz-03-02-2020-3-12_106e774a-463e-11ea-823c-50eb7165e1b2.png",
+            "score": 2508.6429097924592,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1094_hafiz-03-02-2020-3-12_10f73fc0-463e-11ea-9061-50eb7165e1b2.png",
+            "score": 2492.335222586021,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1095_hafiz-03-02-2020-3-12_11a2b278-463e-11ea-93ac-50eb7165e1b2.png",
+            "score": 509.3300640130227,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1096_hafiz-03-02-2020-3-12_1231fa88-463e-11ea-ae8e-50eb7165e1b2.png",
+            "score": 103.57823759451222,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1100_hafiz-03-02-2020-3-12_1437c652-463e-11ea-9577-50eb7165e1b2.png",
+            "score": 2655.1622927665503,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1101_hafiz-03-02-2020-3-12_14a8f90a-463e-11ea-a1d2-50eb7165e1b2.png",
+            "score": 2635.1287850294702,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1102_hafiz-03-02-2020-3-12_1519cb46-463e-11ea-8831-50eb7165e1b2.png",
+            "score": 2629.075718730487,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1103_hafiz-03-02-2020-3-12_15acf8da-463e-11ea-8cec-50eb7165e1b2.png",
+            "score": 2624.6053729389405,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1104_hafiz-03-02-2020-3-12_16693b06-463e-11ea-be4a-50eb7165e1b2.png",
+            "score": 2617.7334166910996,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1105_hafiz-03-02-2020-3-12_16fd7e74-463e-11ea-8d13-50eb7165e1b2.png",
+            "score": 2604.85445618145,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1106_hafiz-03-02-2020-3-12_17874a4c-463e-11ea-81eb-50eb7165e1b2.png",
+            "score": 2492.8629293930744,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1107_hafiz-03-02-2020-3-12_18439a8a-463e-11ea-b6e1-50eb7165e1b2.png",
+            "score": 2574.22009832023,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1108_hafiz-03-02-2020-3-12_18e84cda-463e-11ea-99ab-50eb7165e1b2.png",
+            "score": 2600.690413688929,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1109_hafiz-03-02-2020-3-12_196e961a-463e-11ea-ad29-50eb7165e1b2.png",
+            "score": 2596.44001914104,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_5328_hafiz-03-02-2020-3-12_8ea768ca-4647-11ea-889d-50eb7165e1b2.png",
+            "score": 1015.2917504108796,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_5329_hafiz-03-02-2020-3-12_8f14b2f8-4647-11ea-8d37-50eb7165e1b2.png",
+            "score": 134.50332094581813,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_0_brech-02-03-2020-3-10_8879317a-5c3b-11ea-bb7d-d0abd55a1733.png",
+            "score": 1798.307407083095,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_10_brech-02-03-2020-3-10_8ba2acc2-5c3b-11ea-befd-d0abd55a1733.png",
+            "score": 2116.6654811333437,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_11_brech-02-03-2020-3-10_8bf3f2dc-5c3b-11ea-bac1-d0abd55a1733.png",
+            "score": 2094.4927207327537,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_12_brech-02-03-2020-3-10_8c464490-5c3b-11ea-bd0f-d0abd55a1733.png",
+            "score": 2107.9233145346884,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_13_brech-02-03-2020-3-10_8c9777d4-5c3b-11ea-96ed-d0abd55a1733.png",
+            "score": 2117.444438690034,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_14_brech-02-03-2020-3-10_8ce9384a-5c3b-11ea-9ff3-d0abd55a1733.png",
+            "score": 2131.461200851734,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15135_brech-02-03-2020-3-10_4c95960c-5c4e-11ea-864d-d0abd55a1733.png",
+            "score": 1851.6484233209228,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15136_brech-02-03-2020-3-10_4ce5e2dc-5c4e-11ea-bd73-d0abd55a1733.png",
+            "score": 1824.4392007621477,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15137_brech-02-03-2020-3-10_4d3922a4-5c4e-11ea-b03d-d0abd55a1733.png",
+            "score": 1879.2994728470503,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15138_brech-02-03-2020-3-10_4d8a2af4-5c4e-11ea-af7f-d0abd55a1733.png",
+            "score": 1820.384352952402,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15139_brech-02-03-2020-3-10_4ddbab5c-5c4e-11ea-8c56-d0abd55a1733.png",
+            "score": 1853.6383866090086,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15140_brech-02-03-2020-3-10_4e2df5e8-5c4e-11ea-91c4-d0abd55a1733.png",
+            "score": 1812.1034328566595,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15141_brech-02-03-2020-3-10_4e7cc3d2-5c4e-11ea-9b6a-d0abd55a1733.png",
+            "score": 1851.1372511379109,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15142_brech-02-03-2020-3-10_4ece1974-5c4e-11ea-84a5-d0abd55a1733.png",
+            "score": 1872.9626618811208,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15143_brech-02-03-2020-3-10_4f20c7fa-5c4e-11ea-b3fe-d0abd55a1733.png",
+            "score": 1864.7679716332511,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15144_brech-02-03-2020-3-10_4f70ff4c-5c4e-11ea-b514-d0abd55a1733.png",
+            "score": 1888.6449857817613,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_15145_brech-02-03-2020-3-10_4fc336d4-5c4e-11ea-93e6-d0abd55a1733.png",
+            "score": 1905.4623356412487,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_1_brech-02-03-2020-3-10_88c82050-5c3b-11ea-957c-d0abd55a1733.png",
+            "score": 2152.5266725356696,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_2_brech-02-03-2020-3-10_891a91f4-5c3b-11ea-a6f9-d0abd55a1733.png",
+            "score": 2141.694738827357,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_3_brech-02-03-2020-3-10_896de35c-5c3b-11ea-a6fa-d0abd55a1733.png",
+            "score": 2019.98334699905,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_4_brech-02-03-2020-3-10_89bc438c-5c3b-11ea-8e04-d0abd55a1733.png",
+            "score": 2151.2669840820054,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_5_brech-02-03-2020-3-10_8a0e26f6-5c3b-11ea-9f8d-d0abd55a1733.png",
+            "score": 2149.816250014636,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_6_brech-02-03-2020-3-10_8a5df862-5c3b-11ea-8d84-d0abd55a1733.png",
+            "score": 2137.845396773001,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_7_brech-02-03-2020-3-10_8aaf7324-5c3b-11ea-bd4c-d0abd55a1733.png",
+            "score": 2130.2546537363096,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_8_brech-02-03-2020-3-10_8b0213b0-5c3b-11ea-a787-d0abd55a1733.png",
+            "score": 2131.7272370884634,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\913_9_brech-02-03-2020-3-10_8b525d94-5c3b-11ea-9a94-d0abd55a1733.png",
+            "score": 2093.650986151549,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_0_hafiz-03-02-2020-3-12_9a4358dc-463b-11ea-82a2-50eb7165e1b2.png",
+            "score": 4179.283074587237,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_12_hafiz-03-02-2020-3-12_9fc6009c-463b-11ea-9871-50eb7165e1b2.png",
+            "score": 2884.6645200349903,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_13_hafiz-03-02-2020-3-12_a04a7080-463b-11ea-97e0-50eb7165e1b2.png",
+            "score": 3361.9618861585204,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_1_hafiz-03-02-2020-3-12_9abce3b4-463b-11ea-b68f-50eb7165e1b2.png",
+            "score": 4071.8617109045053,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_2_hafiz-03-02-2020-3-12_9b467176-463b-11ea-9d8a-50eb7165e1b2.png",
+            "score": 3816.5537005039423,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\0\\935_7_hafiz-03-02-2020-3-12_9d811036-463b-11ea-99ba-50eb7165e1b2.png",
+            "score": 115.7268200943161,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1076_hafiz-03-02-2020-3-12_067303fa-463e-11ea-809d-50eb7165e1b2.png",
+            "score": 2285.5184003331215,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1077_hafiz-03-02-2020-3-12_06e468e6-463e-11ea-9a19-50eb7165e1b2.png",
+            "score": 2290.5975944048096,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1078_hafiz-03-02-2020-3-12_076f69c0-463e-11ea-b927-50eb7165e1b2.png",
+            "score": 2428.5451322915874,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1079_hafiz-03-02-2020-3-12_0820f866-463e-11ea-b4aa-50eb7165e1b2.png",
+            "score": 2469.503560603827,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1080_hafiz-03-02-2020-3-12_08b7f5ec-463e-11ea-b58c-50eb7165e1b2.png",
+            "score": 2476.6859769414023,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1081_hafiz-03-02-2020-3-12_093b679e-463e-11ea-ac73-50eb7165e1b2.png",
+            "score": 2459.323496343683,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1082_hafiz-03-02-2020-3-12_09c19af4-463e-11ea-9eec-50eb7165e1b2.png",
+            "score": 2429.5468853527414,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1083_hafiz-03-02-2020-3-12_0a742308-463e-11ea-8d3a-50eb7165e1b2.png",
+            "score": 2503.37195863028,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1084_hafiz-03-02-2020-3-12_0b1f5b0c-463e-11ea-bb9b-50eb7165e1b2.png",
+            "score": 2460.4686598746916,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1085_hafiz-03-02-2020-3-12_0bae4cf6-463e-11ea-9fb3-50eb7165e1b2.png",
+            "score": 2493.749059526707,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1086_hafiz-03-02-2020-3-12_0c34d868-463e-11ea-9126-50eb7165e1b2.png",
+            "score": 2520.1503247423666,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1087_hafiz-03-02-2020-3-12_0ce8774a-463e-11ea-9f61-50eb7165e1b2.png",
+            "score": 2516.578635083268,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1088_hafiz-03-02-2020-3-12_0d8e2ed2-463e-11ea-8973-50eb7165e1b2.png",
+            "score": 2506.871963948372,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1089_hafiz-03-02-2020-3-12_0e117f0c-463e-11ea-a2f4-50eb7165e1b2.png",
+            "score": 2510.134416732122,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1090_hafiz-03-02-2020-3-12_0e98ac0a-463e-11ea-a087-50eb7165e1b2.png",
+            "score": 2514.7577412153023,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1091_hafiz-03-02-2020-3-12_0f474ab6-463e-11ea-8b25-50eb7165e1b2.png",
+            "score": 2517.50667961544,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1092_hafiz-03-02-2020-3-12_0fe4c4e6-463e-11ea-ad36-50eb7165e1b2.png",
+            "score": 2509.8331096745046,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1093_hafiz-03-02-2020-3-12_106e774a-463e-11ea-823c-50eb7165e1b2.png",
+            "score": 2508.6429097924592,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1094_hafiz-03-02-2020-3-12_10f73fc0-463e-11ea-9061-50eb7165e1b2.png",
+            "score": 2492.335222586021,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1095_hafiz-03-02-2020-3-12_11a2b278-463e-11ea-93ac-50eb7165e1b2.png",
+            "score": 509.3300640130227,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1096_hafiz-03-02-2020-3-12_1231fa88-463e-11ea-ae8e-50eb7165e1b2.png",
+            "score": 103.57823759451222,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1100_hafiz-03-02-2020-3-12_1437c652-463e-11ea-9577-50eb7165e1b2.png",
+            "score": 2655.1622927665503,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1101_hafiz-03-02-2020-3-12_14a8f90a-463e-11ea-a1d2-50eb7165e1b2.png",
+            "score": 2635.1287850294702,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1102_hafiz-03-02-2020-3-12_1519cb46-463e-11ea-8831-50eb7165e1b2.png",
+            "score": 2629.075718730487,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1103_hafiz-03-02-2020-3-12_15acf8da-463e-11ea-8cec-50eb7165e1b2.png",
+            "score": 2624.6053729389405,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1104_hafiz-03-02-2020-3-12_16693b06-463e-11ea-be4a-50eb7165e1b2.png",
+            "score": 2617.7334166910996,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1105_hafiz-03-02-2020-3-12_16fd7e74-463e-11ea-8d13-50eb7165e1b2.png",
+            "score": 2604.85445618145,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1106_hafiz-03-02-2020-3-12_17874a4c-463e-11ea-81eb-50eb7165e1b2.png",
+            "score": 2492.8629293930744,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1107_hafiz-03-02-2020-3-12_18439a8a-463e-11ea-b6e1-50eb7165e1b2.png",
+            "score": 2574.22009832023,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1108_hafiz-03-02-2020-3-12_18e84cda-463e-11ea-99ab-50eb7165e1b2.png",
+            "score": 2600.690413688929,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_1109_hafiz-03-02-2020-3-12_196e961a-463e-11ea-ad29-50eb7165e1b2.png",
+            "score": 2596.44001914104,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_5328_hafiz-03-02-2020-3-12_8ea768ca-4647-11ea-889d-50eb7165e1b2.png",
+            "score": 1015.2917504108796,
+            "blurry": false
+        },
+        {
+            "input_path": "data\\481\\1\\935_5329_hafiz-03-02-2020-3-12_8f14b2f8-4647-11ea-8d37-50eb7165e1b2.png",
+            "score": 134.50332094581813,
+            "blurry": false
+        }
+    ]
+}
